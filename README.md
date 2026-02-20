@@ -7,7 +7,8 @@ This domain ontology seeks to minutely describe the kind of data one collects wh
 - Wann identifier, wann kontrolliertes Vokabular?
 
 ---
-(../domain ontology library provenance.drawio.png)
+
+[![Mindmap](link to image on GH)]
 ---
 ### Begründungen der Modellierungsentscheidungen:
 | Pfad | Bedeutung | Warum so modelliert? |
