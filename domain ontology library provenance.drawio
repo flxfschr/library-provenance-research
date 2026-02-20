@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.6">
   <diagram name="Seite-1" id="Fu_blFUpr4ArKJvkdo0x">
-    <mxGraphModel dx="640" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="440" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,10 +135,15 @@
         <mxCell id="G6cY2IViWI8VvBCz2YaC-11" parent="1" style="whiteSpace=wrap;html=1;align=center;fontColor=#B3B3B3;fontSize=12;arcSize=12;" value="E62 String" vertex="1">
           <mxGeometry height="40" width="100" x="530" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="G6cY2IViWI8VvBCz2YaC-14" edge="1" parent="1" source="E9cOt3YWKd3lOYB7ZYsO-17" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;arcSize=12;" target="E9cOt3YWKd3lOYB7ZYsO-1" value="">
+        <mxCell id="G6cY2IViWI8VvBCz2YaC-14" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;arcSize=12;strokeColor=#B3B3B3;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="560" y="360" as="sourcePoint" />
-            <mxPoint x="610" y="310" as="targetPoint" />
+            <mxPoint x="570" y="470" as="sourcePoint" />
+            <mxPoint x="570" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6cY2IViWI8VvBCz2YaC-42" connectable="0" parent="G6cY2IViWI8VvBCz2YaC-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;color: rgb(179, 179, 179);&quot;&gt;P128 carries&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.6956" y="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G6cY2IViWI8VvBCz2YaC-19" edge="1" parent="1" source="G6cY2IViWI8VvBCz2YaC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;arcSize=12;" target="G6cY2IViWI8VvBCz2YaC-18" value="">
@@ -157,17 +162,6 @@
         </mxCell>
         <mxCell id="G6cY2IViWI8VvBCz2YaC-21" parent="1" style="whiteSpace=wrap;html=1;align=center;fontSize=12;arcSize=12;" value="E55 Type (Exemplartyp nach T-Pro)" vertex="1">
           <mxGeometry height="40" width="100" x="750" y="190" as="geometry" />
-        </mxCell>
-        <mxCell id="G6cY2IViWI8VvBCz2YaC-24" parent="1" style="whiteSpace=wrap;html=1;align=center;fontSize=12;arcSize=12;" value="E55 Type (Exmeplartyp nach T-Pro)" vertex="1">
-          <mxGeometry height="40" width="100" x="900" y="310" as="geometry" />
-        </mxCell>
-        <mxCell id="G6cY2IViWI8VvBCz2YaC-25" edge="1" parent="1" source="G6cY2IViWI8VvBCz2YaC-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.066;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;arcSize=12;" target="G6cY2IViWI8VvBCz2YaC-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G6cY2IViWI8VvBCz2YaC-26" connectable="0" parent="G6cY2IViWI8VvBCz2YaC-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;arcSize=12;" value="P127 has narrower term" vertex="1">
-          <mxGeometry relative="1" x="-0.1329" y="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="G6cY2IViWI8VvBCz2YaC-27" parent="1" style="whiteSpace=wrap;html=1;align=center;fontSize=12;arcSize=12;" value="E42 Identifier" vertex="1">
           <mxGeometry height="40" width="100" x="240" y="10" as="geometry" />
