@@ -8,7 +8,7 @@ This domain ontology seeks to minutely describe the kind of data one collects wh
 
 ---
 
-![Mindmap](domain ontology library provenance.drawio.png)
+![Mindmap](mindmap.png)
 
 ---
 ### Begründungen der Modellierungsentscheidungen:
