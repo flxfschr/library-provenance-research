@@ -139,7 +139,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E9cOt3YWKd3lOYB7ZYsO-17" parent="1" style="whiteSpace=wrap;html=1;align=center;fontColor=#000000;fontSize=12;arcSize=12;" value="E34 Inscription" vertex="1">
+        <mxCell id="E9cOt3YWKd3lOYB7ZYsO-17" parent="1" style="whiteSpace=wrap;html=1;align=center;fontSize=12;arcSize=12;fillColor=#f8cecc;strokeColor=#b85450;" value="E34 Inscription" vertex="1">
           <mxGeometry height="40" width="100" x="550" y="360" as="geometry" />
         </mxCell>
         <mxCell id="E9cOt3YWKd3lOYB7ZYsO-20" parent="1" style="whiteSpace=wrap;html=1;align=center;fontColor=#000000;fontSize=12;arcSize=12;" value="E39 Actor" vertex="1">
@@ -174,7 +174,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6cY2IViWI8VvBCz2YaC-15" parent="1" style="whiteSpace=wrap;html=1;align=center;fontSize=12;arcSize=12;" value="E36 Visual Item" vertex="1">
+        <mxCell id="G6cY2IViWI8VvBCz2YaC-15" parent="1" style="whiteSpace=wrap;html=1;align=center;fontSize=12;arcSize=12;fillColor=#f8cecc;strokeColor=#b85450;" value="E36 Visual Item" vertex="1">
           <mxGeometry height="40" width="100" x="660" y="290" as="geometry" />
         </mxCell>
         <mxCell id="G6cY2IViWI8VvBCz2YaC-18" parent="1" style="whiteSpace=wrap;html=1;align=center;fontSize=12;arcSize=12;" value="E1 CRM Entity" vertex="1">
@@ -229,7 +229,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6cY2IViWI8VvBCz2YaC-43" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="E37 Mark" vertex="1">
+        <mxCell id="G6cY2IViWI8VvBCz2YaC-43" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" value="E37 Mark" vertex="1">
           <mxGeometry height="40" width="100" x="280" y="260" as="geometry" />
         </mxCell>
         <mxCell id="G6cY2IViWI8VvBCz2YaC-48" parent="1" style="whiteSpace=wrap;html=1;align=center;fontSize=12;arcSize=12;" value="E42 Identifier" vertex="1">
