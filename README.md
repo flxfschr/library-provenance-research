@@ -1,6 +1,11 @@
 # Conceptional model: library provenance research domain ontology (*WIP*)
 This domain ontology seeks to minutely describe the kind of data one collects when recording provenance markers in library collections, that is, in books and periodicals. I've tried to follow the WEMI class logic by using the IFLA LRMoo extension of CRM (F5 Item as a sub class of E24 Physical Human-Made Thing). 
 
+#### Offene Fragen
+- E37/E34/E36 oder gleich E25/26, um Provenienzmerkmale zu beschreiben?
+- E62/E41/E1 String/Appelation/CRM Entity: für Freitext was nun?
+- Wann identifier, wann kontrolliertes Vokabular?
+
 ---
 ### Begründungen der Modellierungsentscheidungen:
 | Pfad | Bedeutung | Warum so modelliert? |
