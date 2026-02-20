@@ -8,7 +8,8 @@ This domain ontology seeks to minutely describe the kind of data one collects wh
 
 ---
 
-[![Mindmap](link to image on GH)]
+![Mindmap](domain ontology library provenance.drawio.png)
+
 ---
 ### Begründungen der Modellierungsentscheidungen:
 | Pfad | Bedeutung | Warum so modelliert? |
