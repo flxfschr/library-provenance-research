@@ -3,6 +3,8 @@ This domain ontology seeks to minutely describe the kind of data one collects wh
 
 #### Offene Fragen
 - E37/E34/E36 oder gleich E25/26, um Provenienzmerkmale zu beschreiben?
+  - Scope Note E34 Inspricption: The physical embodiment is modelled in the CIDOC CRM as instances of E24 Physical Human-Made Thing. The relationship of a physical copy of a book to the text it contains is modelled using E18 Physical Thing. P128 carries (is carried by): E33 Linguistic       Object.
+  - 
 - E62/E41/E1 String/Appelation/CRM Entity: für Freitext was nun?
 - Wann identifier, wann kontrolliertes Vokabular?
 
