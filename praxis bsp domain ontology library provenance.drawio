@@ -446,7 +446,7 @@
             <mxRectangle height="30" width="130" x="330" y="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pfFjPtox-ME2ZKNVFglR-102" parent="pfFjPtox-ME2ZKNVFglR-101" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=7;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="Akzessionsjournal G 1942" vertex="1">
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-102" parent="pfFjPtox-ME2ZKNVFglR-101" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=7;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="Akzessionsjournal &quot;Geschenk&quot; 1942" vertex="1">
           <mxGeometry height="25" width="80" y="20" as="geometry" />
         </mxCell>
         <mxCell id="pfFjPtox-ME2ZKNVFglR-103" edge="1" parent="1" source="pfFjPtox-ME2ZKNVFglR-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="pfFjPtox-ME2ZKNVFglR-57">
