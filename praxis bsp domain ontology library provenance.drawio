@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.5.2">
   <diagram name="Seite-1" id="Fu_blFUpr4ArKJvkdo0x">
-    <mxGraphModel dx="1072" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1295" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,16 +70,16 @@
           <mxGeometry height="40" width="100" x="530" y="10" as="geometry" />
         </mxCell>
         <mxCell id="G6cY2IViWI8VvBCz2YaC-27" parent="1" style="whiteSpace=wrap;html=1;align=center;fontSize=12;arcSize=12;" value="E42 PPN" vertex="1">
-          <mxGeometry height="40" width="100" x="240" y="10" as="geometry" />
+          <mxGeometry height="40" width="100" x="300" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="pfFjPtox-ME2ZKNVFglR-1" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=10;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="F5 Exemplar" vertex="1">
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-1" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=10;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="F5 Exemplar" vertex="1">
           <mxGeometry height="70" width="120" x="520" y="120" as="geometry" />
         </mxCell>
         <mxCell id="pfFjPtox-ME2ZKNVFglR-2" parent="pfFjPtox-ME2ZKNVFglR-1" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=9;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="Röpke, Wilhelm. Der Weg des Unheils, Berlin 1931" vertex="1">
           <mxGeometry height="40" width="120" y="30" as="geometry" />
         </mxCell>
         <mxCell id="pfFjPtox-ME2ZKNVFglR-3" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=10;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="E35 Title" vertex="1">
-          <mxGeometry height="55" width="120" x="760" y="2.5" as="geometry" />
+          <mxGeometry height="55" width="120" x="770" y="2.5" as="geometry" />
         </mxCell>
         <mxCell id="pfFjPtox-ME2ZKNVFglR-4" parent="pfFjPtox-ME2ZKNVFglR-3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=9;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;i&gt;Der Weg des Unheils&lt;/i&gt;" vertex="1">
           <mxGeometry height="25" width="120" y="30" as="geometry" />
@@ -454,7 +454,7 @@
         <mxCell id="pfFjPtox-ME2ZKNVFglR-179" edge="1" parent="1" source="pfFjPtox-ME2ZKNVFglR-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="pfFjPtox-ME2ZKNVFglR-177">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pfFjPtox-ME2ZKNVFglR-180" connectable="0" parent="pfFjPtox-ME2ZKNVFglR-179" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" value="P1 is identified by" vertex="1">
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-180" connectable="0" parent="pfFjPtox-ME2ZKNVFglR-179" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" value="P139 has alternative form" vertex="1">
           <mxGeometry relative="1" x="0.0158" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -464,7 +464,7 @@
             <mxRectangle height="30" width="130" x="330" y="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pfFjPtox-ME2ZKNVFglR-172" parent="pfFjPtox-ME2ZKNVFglR-171" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=7;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="Physisches Merkmal: Stempel: Buchhändler&amp;nbsp;" vertex="1">
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-172" parent="pfFjPtox-ME2ZKNVFglR-171" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=7;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="Physisches Merkmal: Stempel: Buchhändler (T-Pro)&amp;nbsp;" vertex="1">
           <mxGeometry height="40" width="70" y="20" as="geometry" />
         </mxCell>
         <mxCell id="pfFjPtox-ME2ZKNVFglR-184" edge="1" parent="1" source="pfFjPtox-ME2ZKNVFglR-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="pfFjPtox-ME2ZKNVFglR-183">
@@ -476,7 +476,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pfFjPtox-ME2ZKNVFglR-177" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=7;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="E41 Appellation" vertex="1">
-          <mxGeometry height="60" width="70" x="1000" y="290" as="geometry">
+          <mxGeometry height="60" width="70" x="1090" y="262.5" as="geometry">
             <mxRectangle height="30" width="130" x="330" y="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -484,12 +484,44 @@
           <mxGeometry height="40" width="70" y="20" as="geometry" />
         </mxCell>
         <mxCell id="pfFjPtox-ME2ZKNVFglR-182" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=7;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="E56 Language" vertex="1">
-          <mxGeometry height="40" width="70" x="1000" y="210" as="geometry">
+          <mxGeometry height="40" width="70" x="1090" y="160" as="geometry">
             <mxRectangle height="30" width="130" x="330" y="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pfFjPtox-ME2ZKNVFglR-183" parent="pfFjPtox-ME2ZKNVFglR-182" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=7;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="German" vertex="1">
           <mxGeometry height="20" width="70" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-193" edge="1" parent="1" source="pfFjPtox-ME2ZKNVFglR-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="pfFjPtox-ME2ZKNVFglR-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-194" connectable="0" parent="pfFjPtox-ME2ZKNVFglR-193" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" value="P2 has type" vertex="1">
+          <mxGeometry relative="1" x="-0.256" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-186" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=7;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="E42 Identifier" vertex="1">
+          <mxGeometry height="45" width="70" x="1020" y="380" as="geometry">
+            <mxRectangle height="30" width="130" x="330" y="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-187" parent="pfFjPtox-ME2ZKNVFglR-186" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=7;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="123XXX" vertex="1">
+          <mxGeometry height="25" width="70" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-189" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=7;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="E55 Type" vertex="1">
+          <mxGeometry height="40" width="70" x="1090" y="335" as="geometry">
+            <mxRectangle height="30" width="130" x="330" y="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-190" parent="pfFjPtox-ME2ZKNVFglR-189" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=7;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="GND-Nr. (z.B. wip)" vertex="1">
+          <mxGeometry height="20" width="70" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-191" edge="1" parent="1" source="pfFjPtox-ME2ZKNVFglR-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="pfFjPtox-ME2ZKNVFglR-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-192" connectable="0" parent="pfFjPtox-ME2ZKNVFglR-191" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" value="P48 has preferred identifier" vertex="1">
+          <mxGeometry relative="1" x="0.049" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
