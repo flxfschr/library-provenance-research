@@ -10,6 +10,8 @@ This domain ontology seeks to minutely describe the kind of data one collects wh
 
 ---
 
+![Mindmap](mindmap.png)
+
 ---
 ### Begründungen der Modellierungsentscheidungen:
 | Pfad | Bedeutung | Warum so modelliert? |
