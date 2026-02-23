@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.5.2">
   <diagram name="Seite-1" id="Fu_blFUpr4ArKJvkdo0x">
-    <mxGraphModel dx="1295" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1072" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,20 +68,6 @@
         </mxCell>
         <mxCell id="E9cOt3YWKd3lOYB7ZYsO-4" parent="1" style="whiteSpace=wrap;html=1;align=center;fontSize=12;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" value="F3 Manifestation" vertex="1">
           <mxGeometry height="40" width="100" x="530" y="10" as="geometry" />
-        </mxCell>
-        <mxCell id="G6cY2IViWI8VvBCz2YaC-12" edge="1" parent="1" source="E9cOt3YWKd3lOYB7ZYsO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;fontSize=12;arcSize=12;" target="G6cY2IViWI8VvBCz2YaC-11" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G6cY2IViWI8VvBCz2YaC-13" connectable="0" parent="G6cY2IViWI8VvBCz2YaC-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;fontSize=8;arcSize=12;" value="P3 has note" vertex="1">
-          <mxGeometry relative="1" x="-0.1029" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E9cOt3YWKd3lOYB7ZYsO-17" parent="1" style="whiteSpace=wrap;html=1;align=center;fontSize=12;arcSize=12;fillColor=#f8cecc;strokeColor=#b85450;" value="E34 Inscription" vertex="1">
-          <mxGeometry height="40" width="100" x="920" y="390" as="geometry" />
-        </mxCell>
-        <mxCell id="G6cY2IViWI8VvBCz2YaC-11" parent="1" style="whiteSpace=wrap;html=1;align=center;fontColor=#000000;fontSize=12;arcSize=12;" value="E62 String" vertex="1">
-          <mxGeometry height="40" width="100" x="920" y="520" as="geometry" />
         </mxCell>
         <mxCell id="G6cY2IViWI8VvBCz2YaC-27" parent="1" style="whiteSpace=wrap;html=1;align=center;fontSize=12;arcSize=12;" value="E42 PPN" vertex="1">
           <mxGeometry height="40" width="100" x="240" y="10" as="geometry" />
@@ -395,19 +381,115 @@
         <mxCell id="pfFjPtox-ME2ZKNVFglR-140" parent="pfFjPtox-ME2ZKNVFglR-139" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=9;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="Kiel, SH" vertex="1">
           <mxGeometry height="25" width="80" y="30" as="geometry" />
         </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-160" edge="1" parent="1" source="pfFjPtox-ME2ZKNVFglR-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.386;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" target="pfFjPtox-ME2ZKNVFglR-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-161" connectable="0" parent="pfFjPtox-ME2ZKNVFglR-160" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" value="P2 has type" vertex="1">
+          <mxGeometry relative="1" x="-0.0083" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pfFjPtox-ME2ZKNVFglR-149" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=10;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="E37 Mark" vertex="1">
-          <mxGeometry height="60" width="90" x="520" y="270" as="geometry" />
+          <mxGeometry height="60" width="90" x="520" y="260" as="geometry" />
         </mxCell>
         <mxCell id="pfFjPtox-ME2ZKNVFglR-150" parent="pfFjPtox-ME2ZKNVFglR-149" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=9;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="Provenienzmerkmal" vertex="1">
           <mxGeometry height="30" width="90" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pfFjPtox-ME2ZKNVFglR-151" edge="1" parent="1" source="pfFjPtox-ME2ZKNVFglR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="pfFjPtox-ME2ZKNVFglR-149">
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-151" edge="1" parent="1" source="pfFjPtox-ME2ZKNVFglR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.441;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" target="pfFjPtox-ME2ZKNVFglR-149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pfFjPtox-ME2ZKNVFglR-152" connectable="0" parent="pfFjPtox-ME2ZKNVFglR-151" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" value="P65 shows visual item" vertex="1">
           <mxGeometry relative="1" x="-0.0162" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-175" edge="1" parent="1" source="pfFjPtox-ME2ZKNVFglR-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="pfFjPtox-ME2ZKNVFglR-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-176" connectable="0" parent="pfFjPtox-ME2ZKNVFglR-175" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" value="P127 has narrower term" vertex="1">
+          <mxGeometry relative="1" x="-0.0154" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-158" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=7;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="E55 Type" vertex="1">
+          <mxGeometry height="60" width="70" x="690" y="270" as="geometry">
+            <mxRectangle height="30" width="130" x="330" y="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-159" parent="pfFjPtox-ME2ZKNVFglR-158" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=7;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="Physisches Merkmal: Stempel (T-Pro-Begriff)&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="70" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-162" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=7;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="E41 Appellation" vertex="1">
+          <mxGeometry height="60" width="70" x="690" y="335" as="geometry">
+            <mxRectangle height="30" width="130" x="330" y="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-163" parent="pfFjPtox-ME2ZKNVFglR-162" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=7;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;div&gt;Ort im Buch:&lt;/div&gt;&lt;div&gt;S. XX, mitte unten&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="70" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-165" edge="1" parent="1" source="pfFjPtox-ME2ZKNVFglR-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="pfFjPtox-ME2ZKNVFglR-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-166" connectable="0" parent="pfFjPtox-ME2ZKNVFglR-165" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" value="P1 is identified by" vertex="1">
+          <mxGeometry relative="1" x="-0.0115" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-167" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=7;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="E62 String" vertex="1">
+          <mxGeometry height="55" width="70" x="520" y="375" as="geometry">
+            <mxRectangle height="30" width="130" x="330" y="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-168" parent="pfFjPtox-ME2ZKNVFglR-167" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=7;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="35" width="70" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-169" edge="1" parent="1" source="pfFjPtox-ME2ZKNVFglR-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="pfFjPtox-ME2ZKNVFglR-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-170" connectable="0" parent="pfFjPtox-ME2ZKNVFglR-169" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" value="P3 has note" vertex="1">
+          <mxGeometry relative="1" x="-0.1836" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-179" edge="1" parent="1" source="pfFjPtox-ME2ZKNVFglR-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="pfFjPtox-ME2ZKNVFglR-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-180" connectable="0" parent="pfFjPtox-ME2ZKNVFglR-179" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" value="P1 is identified by" vertex="1">
+          <mxGeometry relative="1" x="0.0158" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-171" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=7;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="E55 Type" vertex="1">
+          <mxGeometry height="60" width="70" x="860" y="290" as="geometry">
+            <mxRectangle height="30" width="130" x="330" y="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-172" parent="pfFjPtox-ME2ZKNVFglR-171" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=7;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="Physisches Merkmal: Stempel: Buchhändler&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="70" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-184" edge="1" parent="1" source="pfFjPtox-ME2ZKNVFglR-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="pfFjPtox-ME2ZKNVFglR-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-185" connectable="0" parent="pfFjPtox-ME2ZKNVFglR-184" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" value="P72 has language" vertex="1">
+          <mxGeometry relative="1" x="-0.0034" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-177" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=7;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="E41 Appellation" vertex="1">
+          <mxGeometry height="60" width="70" x="1000" y="290" as="geometry">
+            <mxRectangle height="30" width="130" x="330" y="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-178" parent="pfFjPtox-ME2ZKNVFglR-177" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=7;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&quot;Hugendubel&quot;" vertex="1">
+          <mxGeometry height="40" width="70" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-182" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=7;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="E56 Language" vertex="1">
+          <mxGeometry height="40" width="70" x="1000" y="210" as="geometry">
+            <mxRectangle height="30" width="130" x="330" y="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-183" parent="pfFjPtox-ME2ZKNVFglR-182" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=7;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="German" vertex="1">
+          <mxGeometry height="20" width="70" y="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
