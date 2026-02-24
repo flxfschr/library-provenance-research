@@ -571,6 +571,20 @@
         <mxCell id="BDgPgjCXGoOzEECHSB-t-14" parent="BDgPgjCXGoOzEECHSB-t-13" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=7;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="Hugendubel" vertex="1">
           <mxGeometry height="40" width="70" y="20" as="geometry" />
         </mxCell>
+        <mxCell id="BDgPgjCXGoOzEECHSB-t-17" edge="1" parent="1" source="pfFjPtox-ME2ZKNVFglR-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="BDgPgjCXGoOzEECHSB-t-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="588" y="360" />
+              <mxPoint x="660" y="360" />
+              <mxPoint x="660" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDgPgjCXGoOzEECHSB-t-18" connectable="0" parent="BDgPgjCXGoOzEECHSB-t-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" value="P138 represents" vertex="1">
+          <mxGeometry relative="1" x="-0.2635" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
