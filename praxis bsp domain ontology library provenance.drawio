@@ -516,7 +516,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pfFjPtox-ME2ZKNVFglR-186" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=7;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="E42 Identifier" vertex="1">
-          <mxGeometry height="45" width="70" x="1020" y="380" as="geometry">
+          <mxGeometry height="45" width="70" x="1010" y="369" as="geometry">
             <mxRectangle height="30" width="130" x="330" y="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
