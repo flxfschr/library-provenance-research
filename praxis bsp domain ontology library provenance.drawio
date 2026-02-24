@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.5.2">
   <diagram name="Seite-1" id="Fu_blFUpr4ArKJvkdo0x">
-    <mxGraphModel dx="1072" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="740" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
             <mxPoint x="750" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6cY2IViWI8VvBCz2YaC-23" connectable="0" parent="G6cY2IViWI8VvBCz2YaC-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;arcSize=12;" value="P2 has type" vertex="1">
+        <mxCell id="G6cY2IViWI8VvBCz2YaC-23" connectable="0" parent="G6cY2IViWI8VvBCz2YaC-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;arcSize=12;" value="P1 is identified by" vertex="1">
           <mxGeometry relative="1" x="-0.2789" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -100,7 +100,15 @@
         <mxCell id="pfFjPtox-ME2ZKNVFglR-10" parent="pfFjPtox-ME2ZKNVFglR-9" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=9;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="ZB, Geschl. Magazin" vertex="1">
           <mxGeometry height="25" width="120" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pfFjPtox-ME2ZKNVFglR-11" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=10;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="E55 Exemplartyp" vertex="1">
+        <mxCell id="BDgPgjCXGoOzEECHSB-t-21" edge="1" parent="1" source="pfFjPtox-ME2ZKNVFglR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="BDgPgjCXGoOzEECHSB-t-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BDgPgjCXGoOzEECHSB-t-22" connectable="0" parent="BDgPgjCXGoOzEECHSB-t-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" value="P139 has alternative form" vertex="1">
+          <mxGeometry relative="1" x="0.1407" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-11" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=10;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="E41 Appellation" vertex="1">
           <mxGeometry height="60" width="120" x="770" y="140" as="geometry" />
         </mxCell>
         <mxCell id="pfFjPtox-ME2ZKNVFglR-12" parent="pfFjPtox-ME2ZKNVFglR-11" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=9;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="Exemplar: Donator (T-Pro-Begriff)" vertex="1">
@@ -584,6 +592,14 @@
           <mxGeometry relative="1" x="-0.2635" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BDgPgjCXGoOzEECHSB-t-19" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=1;fontSize=7;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="E41 Appellation" vertex="1">
+          <mxGeometry height="50" width="65" x="1010" y="142.5" as="geometry">
+            <mxRectangle height="30" width="130" x="330" y="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDgPgjCXGoOzEECHSB-t-20" parent="BDgPgjCXGoOzEECHSB-t-19" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=7;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&quot;zu&quot; (K10Plus Indikator)" vertex="1">
+          <mxGeometry height="30" width="65" y="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
