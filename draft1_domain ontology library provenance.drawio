@@ -327,7 +327,7 @@
             <mxPoint x="860" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pfFjPtox-ME2ZKNVFglR-176" connectable="0" parent="pfFjPtox-ME2ZKNVFglR-175" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" value="P127 has narrower term" vertex="1">
+        <mxCell id="pfFjPtox-ME2ZKNVFglR-176" connectable="0" parent="pfFjPtox-ME2ZKNVFglR-175" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" value="P127 has broader term" vertex="1">
           <mxGeometry relative="1" x="-0.0154" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
