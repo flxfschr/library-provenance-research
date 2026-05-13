@@ -13,7 +13,7 @@ This domain ontology seeks to minutely describe the kind of data one collects wh
 ![Mindmap](mindmap.png)
 
 ---
-### Begründungen der Modellierungsentscheidungen:
+### Begründungen der Modellierungsentscheidungen (in Arbeit):
 | Pfad | Bedeutung | Warum so modelliert? |
 |------|-----------|---------------------|
 | **F5 → R7 exemplifies → F3 Manifestation** | WEMI-Relation | Exemplar hängt im Bibliothekskatalog an einem Titeldatensatz (Manifestation), in dem das Expl. näher beschrieben wird (z.B. mit Titel)  |
